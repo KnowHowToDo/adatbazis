@@ -1,1 +1,2 @@
-# adatbazis
+# adatbazis  
+Ide Mindent bele  
