@@ -1,6 +1,6 @@
-C#
-WPF
-Create the project
+C#  
+WPF  
+Create the project  
 When you create an application in Visual Studio, you first create a project and a solution. For this example, you'll create a Windows Presentation Foundation (WPF) project.
 1.	Open Visual Studio.
 2.	On the start window, choose Create a new project.
